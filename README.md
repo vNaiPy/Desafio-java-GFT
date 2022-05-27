@@ -27,7 +27,7 @@ Regras:<br>
 </p>
 <p>
 <strong>Classes e suas funções:</strong><br>
-  A classe Jogador contém a função "jogada()" que gera o resultado dos dados.
-  A Classe JogoCraps contém a função verificaJogada() que retorna se o jogador venceu ou não.
+  A classe Jogador contém a função "jogada()" que gera o resultado dos dados.<br>
+  A Classe JogoCraps contém a função verificaJogada() que retorna se o jogador venceu ou não.<br>
   A classe Main dá início ao jogo e dá escolha se o jogador deseja ou não jogar os dados.
 </p>
