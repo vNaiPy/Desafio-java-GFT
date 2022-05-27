@@ -16,7 +16,7 @@ Regras:<br>
 </p>
 
 <p>
-<h3>A resolução feita para a conclusão do projeto.</h3>
+<h3>A resolução feita para a conclusão do projeto:</h3>
 
 <p><strong>Classes:</strong><br>
 <ul>
